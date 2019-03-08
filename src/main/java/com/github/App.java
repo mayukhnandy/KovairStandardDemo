@@ -1,10 +1,4 @@
 package com.github;
-
-/**
- * Hello again
- * Hello world!
- * Hello
- */
 public class App 
 {
     public static void main( String[] args )
@@ -14,4 +8,3 @@ public class App
     }
 }
 
-//foo
